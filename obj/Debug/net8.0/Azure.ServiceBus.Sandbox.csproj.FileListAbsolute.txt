@@ -1,0 +1,5 @@
+D:\coursera\az204\Azure.ServiceBus.Sandbox\obj\Debug\net8.0\Azure.ServiceBus.Sandbox.csproj.AssemblyReference.cache
+D:\coursera\az204\Azure.ServiceBus.Sandbox\obj\Debug\net8.0\Azure.ServiceBus.Sandbox.GeneratedMSBuildEditorConfig.editorconfig
+D:\coursera\az204\Azure.ServiceBus.Sandbox\obj\Debug\net8.0\Azure.ServiceBus.Sandbox.AssemblyInfoInputs.cache
+D:\coursera\az204\Azure.ServiceBus.Sandbox\obj\Debug\net8.0\Azure.ServiceBus.Sandbox.AssemblyInfo.cs
+D:\coursera\az204\Azure.ServiceBus.Sandbox\obj\Debug\net8.0\Azure.ServiceBus.Sandbox.csproj.CoreCompileInputs.cache
